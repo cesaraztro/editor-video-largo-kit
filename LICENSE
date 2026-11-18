@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-Nota: esta licencia cubre el código y la documentación de este repositorio.
-Las herramientas, modelos, fuentes y servicios de terceros que usa (Remotion,
-MediaPipe, Whisper, DeepFilterNet, Pexels, Pixabay, fuentes, etc.) se rigen por
-sus propias licencias; revisa la sección "Licencias de terceros" del README.
