@@ -1,47 +1,27 @@
-LICENCIA PRIVADA — EDITOR DE VIDEO LARGO (BORRADOR)
+MIT License
 
-Copyright (c) 2026 César Holguín · AztroTech. Todos los derechos reservados.
+Copyright (c) 2026 César Holguín · AztroTech
 
-1. QUIÉN PUEDE USARLO
-   Este software ("el Kit") se licencia únicamente a miembros activos de la
-   comunidad de Skool de César Holguín ("el Licenciante"). Si dejas de ser
-   miembro activo, esta licencia termina y debes dejar de usar el Kit.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-2. QUÉ PUEDES HACER
-   Se te concede una licencia personal, no exclusiva e intransferible para
-   instalar el Kit en tus equipos y usarlo, con fines personales y comerciales,
-   para editar tus propios videos (los que tú grabas o de los que eres titular
-   de los derechos). Puedes modificar tu copia para uso propio, por ejemplo tu
-   marca, tus colores y tu logo.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-3. QUÉ NO PUEDES HACER
-   Sin autorización previa y por escrito del Licenciante, está prohibido:
-   a) redistribuir, publicar, compartir o regalar el Kit o parte de él
-      (código, skill, plantillas, gráficos o documentación), con o sin
-      modificaciones, incluidos repositorios públicos o privados de terceros,
-      grupos de mensajería y sitios de descargas;
-   b) venderlo, revenderlo, alquilarlo, sublicenciarlo o incluirlo en un
-      producto o servicio que se ofrezca a terceros (por ejemplo, un servicio
-      de edición de videos para clientes que use el Kit como motor);
-   c) quitar o alterar los avisos de autoría o esta licencia;
-   d) usarlo para editar videos de terceros en una operación comercial de
-      edición para otros.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-4. TERCEROS
-   El Kit usa software y recursos de terceros (Remotion, ffmpeg, Whisper,
-   MediaPipe, fuentes, Pexels, Pixabay y otros) que se rigen por sus propias
-   licencias. Eres responsable de cumplirlas; en particular, Remotion exige una
-   licencia de empresa a las empresas con más de 3 empleados. Esta licencia no
-   modifica ni sustituye las de terceros.
-
-5. SIN GARANTÍA
-   El Kit se entrega "tal cual", sin garantías de ningún tipo. El Licenciante no
-   responde por daños o pérdidas derivados de su uso, incluidos los costos de
-   servicios de terceros que decidas contratar. Haz copia de tus videos
-   originales antes de usarlo.
-
-6. TERMINACIÓN
-   El incumplimiento de esta licencia la termina de inmediato. Podrás ser
-   requerido para eliminar todas las copias del Kit.
-
-Contacto para permisos adicionales: César Holguín · AztroTech.
+---
+Nota: esta licencia cubre el código y la documentación de este repositorio.
+Las herramientas, modelos, fuentes y servicios de terceros que usa (Remotion,
+MediaPipe, Whisper, DeepFilterNet, Pexels, Pixabay, fuentes, etc.) se rigen por
+sus propias licencias; revisa la sección "Licencias de terceros" del README.

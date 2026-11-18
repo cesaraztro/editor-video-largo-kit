@@ -1,6 +1,8 @@
 # Editor de Video Largo
 
-Edita videos largos horizontales (16:9) para YouTube con Claude Code. Es el hermano del **Editor de Reels** y usa su motor.
+Edita videos largos horizontales (16:9) para YouTube con Claude Code. Es el hermano del **[Editor de Reels](https://github.com/cesaraztro/editor-reels-kit)** y usa su motor.
+
+> Código abierto bajo licencia [MIT](LICENSE).
 
 ## Qué hace
 
@@ -22,7 +24,7 @@ Edita videos largos horizontales (16:9) para YouTube con Claude Code. Es el herm
 ## Requisitos
 
 - Mac con Apple Silicon (M1 o más nuevo).
-- **Editor de Reels instalado.** Este kit usa su motor (`_motor`): silueta con Apple Vision, caras, fuentes y efectos de sonido. Por defecto lo busca en la carpeta de al lado (`../editor-reels-kit`).
+- **[Editor de Reels](https://github.com/cesaraztro/editor-reels-kit) instalado.** Este kit usa su motor (`_motor`): silueta con Apple Vision, caras, fuentes y efectos de sonido. Por defecto lo busca en la carpeta de al lado (`../editor-reels-kit`).
 - `ffmpeg`, `node`, `uv` y `python3`. Instálalos con: `brew install ffmpeg node uv python`.
 - Una key gratuita de Pexels para el B-roll.
 - Claude Code.
@@ -30,6 +32,10 @@ Edita videos largos horizontales (16:9) para YouTube con Claude Code. Es el herm
 ## Instalación
 
 ```bash
+# los dos kits, uno al lado del otro
+git clone https://github.com/cesaraztro/editor-reels-kit.git
+git clone https://github.com/cesaraztro/editor-video-largo-kit.git
+(cd editor-reels-kit && ./instalar.sh)
 cd editor-video-largo-kit
 ./instalar.sh                 # agrega --limpiar-voz para instalar DeepFilterNet (quita el ruido del micrófono)
 ```
@@ -95,4 +101,4 @@ El kit usa Remotion, ffmpeg, Whisper (mlx), MediaPipe, DeepFilterNet, Pexels y l
 
 ## Créditos
 
-Creado por César Holguín · AztroTech. Ver `LICENSE`.
+Creado por César Holguín · AztroTech. Licencia MIT (ver `LICENSE`).
