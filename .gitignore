@@ -1,0 +1,10 @@
+.env
+.venv/
+modelos/*.tflite
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+*.bak*
+# tus episodios nunca van al repo
+episodios/

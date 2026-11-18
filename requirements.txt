@@ -1,0 +1,5 @@
+mediapipe==1.1.0
+numpy
+pillow
+opencv-python
+mlx-whisper

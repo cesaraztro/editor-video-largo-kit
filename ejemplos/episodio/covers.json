@@ -1,0 +1,10 @@
+[
+  {"a": 3.5, "b": 6.1, "broll": "person typing email laptop"},
+  {"a": 17.5, "b": 20.7, "card": "capitulo", "t1": "3 COSAS CLAVE", "t2": "que aprendí en la práctica"},
+  {"a": 25.6, "b": 27.3, "broll": "startup office team working"},
+  {"a": 43.5, "b": 49.1, "card": "capitulo", "t1": "LECCIÓN 1", "t2": "La idea de la lección"},
+  {"a": 80.0, "b": 85.0, "card": "frase", "t1": "UNA FRASE", "t2": "que quieres que se quede"},
+  {"a": 120.0, "b": 128.0, "card": "lista", "t1": "Primer paso", "t2": "Segundo paso", "t3": "Tercer paso"},
+  {"a": 700.0, "b": 712.0, "card": "recap"},
+  {"a": 880.0, "b": 895.0, "card": "final"}
+]

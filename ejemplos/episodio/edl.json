@@ -1,0 +1,10 @@
+[
+  ["gancho", 18.4, 27.7, "Primera frase del gancho"],
+  ["gancho", 30.1, 35.6, "Segunda frase del gancho"],
+  ["intro", 111.3, 117.1, "Soy Tu Nombre…"],
+  ["leccion1", 140.7, 150.4, "Lección 1: …"],
+  ["leccion2", 300.0, 320.0, "Lección 2: …"],
+  ["leccion3", 500.0, 520.0, "Lección 3: …"],
+  ["cierre", 700.0, 720.0, "Recapitulando…"],
+  ["cta", 880.0, 895.0, "Si quieres que te ayude…"]
+]

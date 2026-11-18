@@ -1,0 +1,14 @@
+{
+  "_nota": "Datos de este podcast. Los archivos van en ../crudos/. cam1 = cámara del invitado, cam2 = cámara del anfitrión.",
+  "audio": "Audio 2_3.wav",
+  "camaras": {
+    "cam1": ["MVI_0101.MP4", "MVI_0102.MP4"],
+    "cam2": ["MVI_0201.MP4"]
+  },
+  "mira": {"cam1": 0.40, "cam2": 0.60},
+  "luz_meta": {"cam1": 128.0, "cam2": 115.0},
+  "musica": "mi-pista-con-licencia.mp3",
+  "ref_anfitrion": [[41.5, 100.0]],
+  "ref_invitado": [[105.0, 160.0], [170.0, 240.0]],
+  "verificar_hablantes": [["anfitrión", 805, 830], ["invitado", 1500, 1530]]
+}

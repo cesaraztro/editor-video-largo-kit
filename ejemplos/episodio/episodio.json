@@ -1,0 +1,17 @@
+{
+  "_nota": "Datos de este episodio a cámara. La cámara va en la carpeta del episodio (junto a trabajo/); el micrófono limpio, en trabajo/.",
+  "camara": "MVI_0001.MP4",
+  "microfono": "mic48_DeepFilterNet3.wav",
+  "palabras_clave": ["sistema", "equipo", "tiempo", "dinero", "clientes", "orden"],
+  "forzados": [],
+  "musica_capitulos": [["gancho", "pista-1.mp3"], ["leccion1", "pista-2.mp3"], ["leccion2", "pista-3.mp3"], ["leccion3", "pista-4.mp3"], ["cierre", "pista-5.mp3"]],
+  "heroes": [["lecciones", "3 LECCIONES", "oro"], ["sistema", "SISTEMA", "blanco"], ["minutos", "5 MINUTOS", "oro"]],
+  "recap": [["LECCIÓN 1", "la idea de la primera lección", "primera"], ["LECCIÓN 2", "la idea de la segunda", "segunda"], ["LECCIÓN 3", "la idea de la tercera", "tercera"]],
+  "proximo_video": ["Título del próximo video", "segunda línea"],
+  "datos": {
+    "desde": ["soy", 15, 30],
+    "hasta": ["empresas", 30, 45],
+    "contadores": [["años", "+", 3, "años en tu tema"], ["clientes", "+", 10, "clientes"]],
+    "chips": [["restaurantes", "Restaurantes"], ["tiendas", "Tiendas"]]
+  }
+}

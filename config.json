@@ -1,0 +1,24 @@
+{
+  "_nota": "Configuración del kit. Las rutas relativas se resuelven desde esta carpeta. Cambia la marca por la tuya.",
+  "rutas": {
+    "motor": "../editor-reels-kit/_motor",
+    "sfx": "../editor-reels-kit/04-recursos/sfx/pixabay",
+    "musica": "../editor-reels-kit/04-recursos/musica"
+  },
+  "marca": {
+    "nombre": "Tu Nombre",
+    "rol": "Fundador de Tu Empresa",
+    "empresa": "Tu Empresa",
+    "web": "tuempresa.com",
+    "eslogan": "Tu frase de marca",
+    "comunidad": "Únete a mi comunidad",
+    "comunidad_url": "",
+    "cta_titulo": "Consultoría 1 a 1",
+    "cta_sub": "Agenda en el link de la descripción",
+    "cierre": "Gracias por acompañarnos",
+    "pantalla_final": ["Mi conferencia", "Mi último video"],
+    "colores": {"panel": "#201E1F", "acento": "#FE582A"}
+  },
+  "hablantes": ["Anfitrión", "Invitado"],
+  "correcciones": {"_ejemplo_mal_escrito": "Así se escribe"}
+}

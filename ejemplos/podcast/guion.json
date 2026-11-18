@@ -1,0 +1,22 @@
+{
+  "_nota": "Tiempos en segundos del audio del micrófono (mic16k / mezcla48). p4_cortes.py los lleva al tiempo de salida. Rótulos y frases: \"anfitrion\" o \"invitado\".",
+  "titulo": "Título del episodio (con la técnica que uses para empaquetar)",
+  "titulos_alt": ["Variante de título 2", "Variante de título 3"],
+  "descripcion": "Gancho de 1–2 líneas.\n\nEn este episodio hablo con Nombre Invitado, su especialidad. Hablamos de tema 1, tema 2 y tema 3.",
+  "links_invitado": ["📍 Nombre Invitado · lo que ofrece", "Web: https://…", "Instagram: https://…"],
+  "etiquetas": ["tema principal", "Nombre Invitado", "Tu Nombre", "podcast"],
+  "hashtags": ["#Podcast", "#TuTema"],
+  "intro": {"eyebrow": "Mi Podcast · Ep. 01", "titulo": "La idea principal del episodio", "invitados": "Con Nombre Invitado · Su especialidad"},
+  "rango": [41.0, 3600.0],
+  "cold_open": [[104.3, 112.0], [539.45, 553.95], [1708.85, 1717.25]],
+  "cold_open_antes": [[539.45, 553.95], [1708.85, 1717.4]],
+  "cold_open_nota": "resumen de 30–60 s: los mejores momentos en orden de la historia",
+  "quitar": [[165.6, 166.84, "falso arranque"], [191.85, 192.6, "muletilla suelta: entonces"]],
+  "capitulos": [[87.5, "Primer tema"], [280.3, "Segundo tema"], [531.5, "Tercer tema"]],
+  "rotulos": [[43.0, "anfitrion", "Tu Nombre", "Tu cargo"], [104.5, "invitado", "Nombre Invitado", "Su especialidad"]],
+  "frases": [[550.1, 7.0, "invitado", "Una frase fuerte del invitado"]],
+  "ctas": [[2438.0, 8.0, "Mi comunidad", "link en la descripción", "Lo que ofrece tu comunidad"]],
+  "suscribir": [[230.0, 6.0, "¿Te está gustando la charla?"]],
+  "sin_camara": [1828.75, 2008.35],
+  "broll": [[1828.75, "people talking in a cafe"], [1836.5, "notebook writing ideas"]]
+}
